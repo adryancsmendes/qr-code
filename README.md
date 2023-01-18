@@ -28,7 +28,7 @@ O desafio aqui foi construir esse componente de código QR e deixá-lo o mais pr
 
 ### Links
 
-- Live Site URL: [QR-code-preview](https://your-live-site-url.com](https://qr-code-roan-ten.vercel.app/)
+- Live Site URL: [QR-code-preview](https://qr-code-roan-ten.vercel.app/)
 
 
 ## Meu processo
