@@ -4,15 +4,15 @@ Essa é uma solução para [QR code component challenge on Frontend Mentor](http
 
 ## Tabela de conteúdos
 
-- [Visão Geral](#overview)
+- [Visão Geral](#visão-geral)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Meu processo](#meu-processo)
-  - [Construído com](#built-with)
-  - [O que eu aprendi](#what-i-learned)
-  - [Desenvolvimento contínuo](#continued-development)
-  - [Recursos úteis](#useful-resources)
-- [Autor](#author)
+  - [Construído com](#construído-com)
+  - [O que eu aprendi](#o-que-eu-aprendi)
+  - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
+  - [Recursos úteis](#recursos-úteis)
+- [Autor](#autor)
 
 
 ## Visão-Geral
