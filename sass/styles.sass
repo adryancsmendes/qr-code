@@ -1,0 +1,63 @@
+@use 'variables'
+@use 'mixins'
+
+*
+    font-family: 'Outfit'
+    padding: 0
+    margin: 0
+    box-sizing: border-box
+
+body
+    background-color: variables.$bg-color
+    color: variables.$text-color
+    
+    p
+        font-size:0.938rem
+
+    a
+        color: variables.$text-color
+        text-decoration: none
+        transition: .4s
+    
+    .container
+        max-width: variables.$container-width
+        height: 90vh
+        @include mixins.container
+        @include mixins.flex-center
+
+        .conteudo
+            max-width: 350px
+            background: variables.$primary-color
+            @include mixins.flex-center
+            flex-direction: column
+            padding: 1rem 1rem 2rem
+            border-radius: 10px
+            margin: 0 25px
+
+            &-imagem
+                max-width: 100%
+                height: auto
+                border-radius: 10px
+
+            &-titulo
+                font-size: 1.2rem
+                color: variables.$title-color
+                text-align: center
+                padding: 1.25rem 0 0.938rem
+
+                @include mixins.tablet
+                    padding: 1.25rem 0.938rem 0.938rem
+                    font-size: 1.4rem
+
+            &-texto
+                text-align: center
+                padding: 0
+
+                @include mixins.tablet
+                    padding: 0 1.7rem
+
+    .footer
+        @include mixins.flex-center
+        text-align: center
+        padding:0 30px           
+                
