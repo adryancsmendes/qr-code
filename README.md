@@ -7,7 +7,7 @@ Essa é uma solução para [QR code component challenge on Frontend Mentor](http
 - [Visão Geral](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [Meu processo](#my-process)
+- [Meu processo](#meu-processo)
   - [Construído com](#built-with)
   - [O que eu aprendi](#what-i-learned)
   - [Desenvolvimento contínuo](#continued-development)
