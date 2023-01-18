@@ -15,7 +15,7 @@ Essa é uma solução para [QR code component challenge on Frontend Mentor](http
 - [Autor](#autor)
 
 
-## Visão-Geral
+## Visão Geral
 
 O desafio aqui foi construir esse componente de código QR e deixá-lo o mais próximo possível do design.
 
