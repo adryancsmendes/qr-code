@@ -4,18 +4,18 @@ Essa é uma solução para [QR code component challenge on Frontend Mentor](http
 
 ## Tabela de conteúdos
 
-- [Visão Geral](#overview)
+- [Visão Geral](#visão-geral)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [Meu processo](#my-process)
-  - [Construído com](#built-with)
-  - [O que eu aprendi](#what-i-learned)
-  - [Desenvolvimento contínuo](#continued-development)
-  - [Recursos úteis](#useful-resources)
-- [Autor](#author)
+- [Meu processo](#meu-processo)
+  - [Construído com](#construído-com)
+  - [O que eu aprendi](#o-que-eu-aprendi)
+  - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
+  - [Recursos úteis](#recursos-úteis)
+- [Autor](#autor)
 
 
-## Visão-Geral
+## Visão Geral
 
 O desafio aqui foi construir esse componente de código QR e deixá-lo o mais próximo possível do design.
 
@@ -28,7 +28,7 @@ O desafio aqui foi construir esse componente de código QR e deixá-lo o mais pr
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR-code-preview](https://qr-code-roan-ten.vercel.app/)
 
 
 ## Meu processo
